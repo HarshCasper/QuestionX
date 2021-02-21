@@ -1,8 +1,9 @@
 Referance Material regarding "Automatic Quiz Generator" Project
 
-AutomatedQuizGenerator.pdf
+https://www.researchgate.net/publication/320549857_Automated_Quiz_Generator
 Research paper published by students of COE Pune , explaining the working of model using
  **_Heilman' Factual question generation system_** and many more...
+
 https://towardsdatascience.com/practical-ai-automatically-generate-multiple-choice-questions-mcqs-from-any-
 content-with-bert-2140d53a9bf5
 Automatically Generate Multiple Choice Questions (MCQs) from any content with BERT Summarizer, Wordnet and
