@@ -1,0 +1,114 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #A5D8F5;
+
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 3%;
+  color:#084184 !important;
+}
+.nav .nav-item .nav-link{
+  font-size: 18px;
+  font-weight: bold;
+  color: #084184 !important;
+  padding:5px 25px 0px 20px;
+}
+.arrow{
+  padding-left: 2%;
+  color: #084184;
+}
+
+.form-signup {
+  width: 100%;
+  max-width: 330px;
+  margin: auto;
+  padding: 0px 0px 0px 0px;
+  margin-top: 10%;
+  background: #FAFDFF;
+  box-shadow: 5px 5px 9px 3px #888888;
+}
+.user-info{
+  padding: 50px 25px 15px 25px;
+}
+.signup-heading{
+  background: #084184;
+  padding:8px;
+  color:white;
+  font-weight: bold;
+}
+.form-signup .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signup .form-control:focus {
+  z-index: 2;
+}
+.form-signup input[type="text"] {
+
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signup input[type="email"] {
+
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signup input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.signup-button{
+  margin-top: 10%;
+}
+.social-login-label{
+margin-top: 20%;
+}
+.social-connect{
+  padding-left:5%;
+  padding-right: 5%;
+}
+.fa {
+  padding: 10px;
+  font-size: 25px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.facebook{
+  padding-right: 12%;
+}
+.google{
+  padding-right: 12%;
+}
