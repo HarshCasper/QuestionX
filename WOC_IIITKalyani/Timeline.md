@@ -10,7 +10,7 @@
 -   Code to build a prototype using experimental data.
     
 
-2.  Week 2:
+2.  Week 2
     
 
 -   Development of Client-Side Interface for the same.
